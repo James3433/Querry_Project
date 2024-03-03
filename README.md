@@ -62,6 +62,7 @@ price
 8. Data Manipulation with JSON Functions:
    
 • Update the price of a specific product stored as JSON attribute.
+
 ![image](https://github.com/James3433/Querry_Project/assets/125450319/90d0646b-d269-43a6-88f1-4d48ba98b255)
 
 • Add a new attribute to all products with a default value.
